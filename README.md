@@ -28,3 +28,6 @@ Demo Video:
    Additional Libraries for subscriber.py:
 
    ​		paho-mqtt
+
+***Block Diagram:***\
+![diagram](diagram/EE250%20Project.png)
