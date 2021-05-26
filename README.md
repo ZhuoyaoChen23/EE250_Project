@@ -2,8 +2,6 @@
 README file for Zhuoyao Chen's EE250 End of Course Project - Gesture Control Lighting\
 Team Member: Zhuoyao Chen (contact: zhuoyaoc@usc.edu)\
 Demo Video:  
- + Google Drive: https://drive.google.com/file/d/1XOnISzc6WQa760zqFQrbMrbSSPDcgP7V/view?usp=sharing
-
  + YouTube: https://youtu.be/HRH77Hi3Be0
 
 ***User Instruction:*** 
